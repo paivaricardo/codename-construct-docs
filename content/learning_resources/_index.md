@@ -15,6 +15,10 @@ toc: true
 
 <https://dev.to/ovid/database-naming-standards-2061>
 
+### RootSoft - Database Naming Convetion (GitHub)
+
+<https://github.com/RootSoft/Database-Naming-Convention>
+
 ## Frontend
 
 ### Nuxt Crash Course
